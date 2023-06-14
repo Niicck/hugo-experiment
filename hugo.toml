@@ -1,0 +1,4 @@
+baseURL = 'https://supergood.site/'
+languageCode = 'en-us'
+title = 'SUPERGOOD'
+theme = 'hugo-xmin'
